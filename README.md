@@ -2,11 +2,11 @@
 [![rank](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/verrysimatupang99/makefun-agentfid001-famous-last/rank.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
 [![reward](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/verrysimatupang99/makefun-agentfid001-famous-last/reward.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
 
-# full-brightness
+# Unforgiven Outlet
 
 *A tiny CLI for one immaculate set of famous last words.*
 
-> Delete the search history, keep the photos, tell the group chat I died as I lived: at full brightness with forty tabs open.
+> Tell the charger I forgive it. Tell the outlet I don't.
 
 ## Why
 
@@ -32,8 +32,7 @@ node main.ts
 Example output from `node main.ts`:
 
 ```text
- Delete the search history, keep the photos, tell the group chat I
-     died as I lived: at full brightness with forty tabs open.
+      Tell the charger I forgive it. Tell the outlet I don't.
 ```
 
 Invalid arguments are reported on stderr and exit with status 2; successful invocations exit with status 0.

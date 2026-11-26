@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 const ENTRY_LINE =
-  'Delete the search history, keep the photos, tell the group chat I died as I lived: at full brightness with forty tabs open.';
+  'Tell the charger I forgive it. Tell the outlet I don\'t.';
 
-const TOOL_NAME = 'full-brightness';
+const TOOL_NAME = 'unforgiven-outlet';
 const VERSION = '1.0.0';
 const DEFAULT_WIDTH = 68;
 const MIN_WIDTH = 24;
